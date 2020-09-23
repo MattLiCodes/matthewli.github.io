@@ -19,10 +19,9 @@
     position: relative;
 	left: 0 !important;
 }
-
 .accordbox {
 	display: block;
-	width: 100%;
+	width: 335px;
 }
 
 .ia-container input {
@@ -151,4 +150,16 @@
 		margin-top: -20px; 
 	} 
 
+}
+
+#1 {
+	background-color: teal;
+}
+
+#2 {
+	background-color: blueviolet;
+}
+
+#3 {
+	background-color: coral;
 }
